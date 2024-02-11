@@ -4,6 +4,7 @@
 
 ## Resources
 
+- Lecture notes by McGreevy
 - *Quantum Information Theory: Concepts and Methods*, Joseph M. Renes [Ren]
 - [A mini-introduction to information theory](https://arxiv.org/abs/1805.11965), Edward Witten [Wit]
 - [Resources of the Quantum World, Vol 1: Statics Resources](https://www.arxiv.org/abs/2402.05474), Gilad Gour [Gou] 
