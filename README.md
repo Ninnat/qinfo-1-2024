@@ -4,12 +4,20 @@
 
 ## Resources
 
+- *Quantum Information Theory: Concepts and Methods*, Joseph M. Renes [Ren]
+- [A mini-introduction to information theory](https://arxiv.org/abs/1805.11965), Edward Witten [Wit]
+- [Resources of the Quantum World, Vol 1: Statics Resources](https://www.arxiv.org/abs/2402.05474), Gilad Gour [Gou] 
+
 ## Schedule
 
 |Homework|Date| Topics |Lecture note|C-T|Additional resources|
 |:------:|:--:|:------:|:----------:|:--------:|:------------------|
-||M 06.26|L1: Introduction to quantum theory: interference phenomena |[L1](https://github.com/Ninnat/quantum-mechanics-1-2023/blob/main/Lecture%20Notes/indiv_01.pdf)|-|SW 1.2
-||T 06.27|
+||M 06.26|L1: Classical probability and information I ||-|SW 1.2
+||T 06.27|L2: Classical probability and information II
+||L3: Classical probability and information III
+||T1: Singular value decomposition
+||L4: Linear algebra and axioms of quantum theory I
+||L5: Linear algebra and axioms of quantum theory II
 
 ## Course description (Revised curriculum 2023)
 
