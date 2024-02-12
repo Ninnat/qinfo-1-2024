@@ -9,7 +9,7 @@ Main resources
 - Joseph M. Renes, *Quantum Information Theory: Concepts and Methods* [Re]
 - John Preskill's [Ph219 lecture notes](http://theory.caltech.edu/~preskill/ph229/) [Pr]
 - Michael Nielsen and Isaac Chuang, *Quantum Computation and Quantum Information* [NC]
-- Jacob C. Bridgeman and Christopher T. Chubb, [Hand-waving and Interpretive Dance: An Introductory Course on Tensor Networks](https://doi.org/10.1088/1751-8121/aa6dc3) [BC] for tensor diagrammatic reasoning. (Also see lectures 1-6 of [Matthew Leifer's quantum foundations course](https://pirsa.org/C16043))
+- Jacob C. Bridgeman and Christopher T. Chubb, [Hand-waving and Interpretive Dance: An Introductory Course on Tensor Networks](https://doi.org/10.1088/1751-8121/aa6dc3) [BC] for tensor diagrammatic reasoning, (Also see lectures 1-6 of Matthew Leifer's [PSI 2016/2017 course on quantum foundations](https://pirsa.org/C16043))
 
 <!-- - Joseph M. Renes, *Quantum Information Theory: Concepts and Methods*, De Gruyter Oldenbourg, 2022 [Ren]
 - John Preskill's [Ph219 lecture notes](http://theory.caltech.edu/~preskill/ph229/) [Pre]
@@ -28,10 +28,10 @@ Addition resources
 |:------:|:--:|:------:|:----------:|:--------:|:------------------|
 ||M 06.26|L1: Classical probability and information I ||-|SW 1.2
 ||T 06.27|L2: Classical probability and information II
-||L3: Classical probability and information III
-||T1: Singular value decomposition
-||L4: Linear algebra and axioms of quantum theory I
-||L5: Linear algebra and axioms of quantum theory II
+|||L3: Classical probability and information III
+|||T1: Singular value decomposition
+|||L4: Linear algebra and axioms of quantum theory I
+|||L5: Linear algebra and axioms of quantum theory II
 
 ## Course description (Revised curriculum 2023)
 
