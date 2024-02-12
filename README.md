@@ -1,5 +1,7 @@
 # M897525 Quantum Information
 
+The administrative information can be found [here]() (TBA)
+
 ## Announcements
 
 ## Resources
@@ -39,6 +41,16 @@ Density operators; generalized measurements; quantum circuit model; entanglement
 
 ## Grading Scheme
 
-60% Assignments
-20% Oral exam/Quizzes
-20% Written report 
+- 60% Assignments
+- 5% Quizzes
+- 15% Oral exam
+- 20% Written report
+
+The topic of the written report should be related to the topic in this course at an appropriate level. For example, this could be
+
+- Advanced quantum Shannon theory (QST) such as the "mother" and "father" protocols
+- Applications of QST to quantum cryptography
+- Quantum resource theories
+- Quantum Cramér–Rao bound for optimal parameter estimation
+- Quantum state tomography
+- No-go theorems in quantum foundations such as the [PBR](https://en.wikipedia.org/wiki/Pusey%E2%80%93Barrett%E2%80%93Rudolph_theorem) theorem, the [Frauchiger-Renner](https://en.wikipedia.org/wiki/Wigner%27s_friend#An_extension_of_the_Wigner's_friend_experiment) theorem, or those related to contextuality   
