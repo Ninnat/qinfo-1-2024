@@ -46,11 +46,12 @@ Density operators; generalized measurements; quantum circuit model; entanglement
 - 15% Oral exam
 - 20% Written report
 
-The topic of the written report should be related to the topic in this course at an appropriate level. For example, this could be
+You should discuss about the topic of the written report with me; it should at least relates to a topic covered in this course at an appropriate level. Here are some suggestions to get your imagination going:
 
 - Advanced quantum Shannon theory (QST) such as the "mother" and "father" protocols
 - Applications of QST to quantum cryptography
 - Quantum resource theories
 - Quantum Cramér–Rao bound for optimal parameter estimation
 - Quantum state tomography
+- Area laws for entanglement entropy and classical simulation of 1D quantum systems
 - No-go theorems in quantum foundations such as the [PBR](https://en.wikipedia.org/wiki/Pusey%E2%80%93Barrett%E2%80%93Rudolph_theorem) theorem, the [Frauchiger-Renner](https://en.wikipedia.org/wiki/Wigner%27s_friend#An_extension_of_the_Wigner's_friend_experiment) theorem, or those related to contextuality   
