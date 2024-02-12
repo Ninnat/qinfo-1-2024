@@ -9,7 +9,7 @@ The administrative information can be found [here]() (TBA)
 Main resources
 
 - Joseph M. Renes, *Quantum Information Theory: Concepts and Methods* [Re]
-- John Preskill's Ph219: Quantum Information and Computation [lecture notes](http://theory.caltech.edu/~preskill/ph229/) [Pr]
+- John Preskill's Ph219: [Quantum Information and Computation lecture notes](http://theory.caltech.edu/~preskill/ph229/) [Pr]
 - Michael Nielsen and Isaac Chuang, *Quantum Computation and Quantum Information* [NC]
 - Jacob C. Bridgeman and Christopher T. Chubb, [Hand-waving and Interpretive Dance: An Introductory Course on Tensor Networks](https://doi.org/10.1088/1751-8121/aa6dc3) [BC] for tensor diagrammatic reasoning, (Also see lectures 1-6 of Matthew Leifer's [PSI 2016/2017 course on quantum foundations](https://pirsa.org/C16043))
 
@@ -20,7 +20,7 @@ Main resources
 
 Addition resources
 
-- John McGreevy's [Phys220 lecture notes](https://mcgreevy.physics.ucsd.edu/f20/) [Mc]
+- John McGreevy's Phys220: [Quantum Information is Physical lecture notes](https://mcgreevy.physics.ucsd.edu/f19/index.html) [Mc]
 - [A mini-introduction to information theory](https://arxiv.org/abs/1805.11965), Edward Witten [Wi]
 - [Resources of the Quantum World, Vol 1: Statics Resources](https://www.arxiv.org/abs/2402.05474), Gilad Gour [Go] 
 
@@ -46,12 +46,12 @@ Density operators; generalized measurements; quantum circuit model; entanglement
 - 15% Oral exam
 - 20% Written report
 
-You should discuss about the topic of the written report with me; it should at least relates to a topic covered in this course at an appropriate level. Here are some suggestions to get your imagination going:
+You should discuss with me about the topic of the report; it should at least relates to a topic covered in this course at an appropriate level. Here are some suggestions to get you started:
 
-- Advanced quantum Shannon theory (QST) such as the "mother" and "father" protocols
-- Applications of QST to quantum cryptography
+- Advanced quantum Shannon theory such as the "mother" and "father" protocols
+- Applications of entropy to quantum cryptography
 - Quantum resource theories
 - Quantum Cramér–Rao bound for optimal parameter estimation
-- Quantum state tomography
+- Quantum state or quantum process learning 
 - Area laws for entanglement entropy and classical simulation of 1D quantum systems
 - No-go theorems in quantum foundations such as the [PBR](https://en.wikipedia.org/wiki/Pusey%E2%80%93Barrett%E2%80%93Rudolph_theorem) theorem, the [Frauchiger-Renner](https://en.wikipedia.org/wiki/Wigner%27s_friend#An_extension_of_the_Wigner's_friend_experiment) theorem, or those related to contextuality   
