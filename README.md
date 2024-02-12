@@ -4,8 +4,16 @@
 
 ## Resources
 
-- Lecture notes by McGreevy
-- *Quantum Information Theory: Concepts and Methods*, Joseph M. Renes [Ren]
+Main resources
+
+- Joseph M. Renes, *Quantum Information Theory: Concepts and Methods*, De Gruyter Oldenbourg, 2022 [Ren]
+- John Preskill's [Ph219 lecture notes](http://theory.caltech.edu/~preskill/ph229/) [Pre]
+- Michael Nielsen and Isaac Chuang, *Quantum Computation and Quantum Information*, Cambridge University Press, 2000
+- Jacob C. Bridgeman and Christopher T. Chubb, [Hand-waving and Interpretive Dance: An Introductory Course on Tensor Networks](https://doi.org/10.1088/1751-8121/aa6dc3), Journal of Physics A: Mathematical and Theoretical **50**, 223001, 2017
+
+Addition resources
+
+- John McGreevy's [Phys220 lecture notes](https://mcgreevy.physics.ucsd.edu/f20/) [Mcg]
 - [A mini-introduction to information theory](https://arxiv.org/abs/1805.11965), Edward Witten [Wit]
 - [Resources of the Quantum World, Vol 1: Statics Resources](https://www.arxiv.org/abs/2402.05474), Gilad Gour [Gou] 
 
