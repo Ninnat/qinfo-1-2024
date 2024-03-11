@@ -11,9 +11,10 @@ Main resources
 - Joseph M. Renes, *Quantum Information Theory: Concepts and Methods* [Re]
 - John Preskill's Ph219: [Quantum Information and Computation lecture notes](http://theory.caltech.edu/~preskill/ph229/) [Pr]
 - Michael Nielsen and Isaac Chuang, *Quantum Computation and Quantum Information* [NC]
-- Jacob C. Bridgeman and Christopher T. Chubb, [Hand-waving and Interpretive Dance: An Introductory Course on Tensor Networks](https://doi.org/10.1088/1751-8121/aa6dc3) [BC] for tensor diagrammatic reasoning, (Also see lectures 1-6 of Matthew Leifer's [PSI 2016/2017 course on quantum foundations](https://pirsa.org/C16043))
+- Jacob Biamonte,  [Lectures on Quantum Tensor Networks: A pathway to modern diagrammatic reasoning](https://arxiv.org/abs/1912.10049) [JB]
 
 <!-- - Joseph M. Renes, *Quantum Information Theory: Concepts and Methods*, De Gruyter Oldenbourg, 2022 [Ren]
+- Jacob C. Bridgeman and Christopher T. Chubb, [Hand-waving and Interpretive Dance: An Introductory Course on Tensor Networks](https://doi.org/10.1088/1751-8121/aa6dc3) [BC] for tensor diagrammatic reasoning, (Also see lectures 1-6 of Matthew Leifer's [PSI 2016/2017 course on quantum foundations](https://pirsa.org/C16043))
 - John Preskill's [Ph219 lecture notes](http://theory.caltech.edu/~preskill/ph229/) [Pre]
 - Michael Nielsen and Isaac Chuang, *Quantum Computation and Quantum Information*, Cambridge University Press, 2000
 - Jacob C. Bridgeman and Christopher T. Chubb, [Hand-waving and Interpretive Dance: An Introductory Course on Tensor Networks](https://doi.org/10.1088/1751-8121/aa6dc3), Journal of Physics A: Mathematical and Theoretical **50**, 223001, 2017-->
