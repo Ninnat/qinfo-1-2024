@@ -8,10 +8,10 @@ The administrative information can be found [here]() (TBA)
 
 Main resources
 
-- Joseph M. Renes, *Quantum Information Theory: Concepts and Methods*, De Gruyter Oldenbourg, 2022  [Ren]
-- John Preskill, Caltech's Ph219 [Quantum Information and Computation lecture notes](http://theory.caltech.edu/~preskill/ph229/) [Pre]
-- Michael Nielsen and Isaac Chuang, *Quantum Computation and Quantum Information*, Cambridge University Press, 2000 [NC]
-- Jacob Biamonte,  [Lectures on Quantum Tensor Networks: A pathway to modern diagrammatic reasoning](https://arxiv.org/abs/1912.10049) [Bia] (See also lectures 1-6 of Matthew Leifer's [PSI 2016/2017 course on quantum foundations](https://pirsa.org/C16043))
+- [Ren] Joseph M. Renes, *Quantum Information Theory: Concepts and Methods*, De Gruyter Oldenbourg, 2022  
+- [Pre] John Preskill, Caltech's Ph219 [Quantum Information and Computation lecture notes](http://theory.caltech.edu/~preskill/ph229/) 
+- [NC] Michael Nielsen and Isaac Chuang, *Quantum Computation and Quantum Information*, Cambridge University Press, 2000 
+- [Bia] Jacob Biamonte,  [Lectures on Quantum Tensor Networks: A pathway to modern diagrammatic reasoning](https://arxiv.org/abs/1912.10049), (see also lectures 1-6 of Matthew Leifer's [PSI 2016/2017 course on quantum foundations](https://pirsa.org/C16043))
 
 Addition resources
 
