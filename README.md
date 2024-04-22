@@ -16,21 +16,22 @@ Main resources
 Addition resources
 
 **Undergrad/advanced undergrad level**
-- Stephen Barnett, *Quantum Information* (Oxford Master Series in Physics), Oxford University Press, 2009
+- Stephen Barnett, *Quantum Information* (Oxford Master Series in Physics), Oxford University Press, 2009 
 - Benjamin Schumacher and Michael Westmoreland, *Quantum Processes, Systems, & Information*, Cambridge University Press, 2010
-- John McGreevy, Phys220: [Quantum Information is Physical lecture notes](https://mcgreevy.physics.ucsd.edu/f19/index.html) (UCSD) [Mc]
-- [A mini-introduction to information theory](https://arxiv.org/abs/1805.11965), Edward Witten [Wi]
-- [Resources of the Quantum World](https://www.arxiv.org/abs/2402.05474), Gilad Gour [Go] 
+- John McGreevy, Phys220: [Quantum Information is Physical lecture notes](https://mcgreevy.physics.ucsd.edu/f19/index.html) (UCSD) 
+- Edward Witten, [A mini-introduction to information theory](https://arxiv.org/abs/1805.11965), *La Rivista del Nuovo Cimento*, 2020
+- Gilad Gour, [Resources of the Quantum World](https://www.arxiv.org/abs/2402.05474) (book draft)
 
 ## Schedule
 
 |Homework|Date| Topics |Lecture note|Resources|Additional resources
 |:------:|:--:|:------:|:----------:|:--------:|:------------------|
 |||*Classical probability and information*: review of probability theory; concentration inequalities: the (weak) law of large number, Chernoff bound; frequentists' and Bayesian views of probabilities; Shannon entropy and typical sequences||Ren 1|[Bayesian Versus Orthodox Statistics: Which Side Are You On?](http://www.lifesci.sussex.ac.uk/home/Zoltan_Dienes/Dienes%202011%20Bayes.pdf), Zoltan Dienes
-|||*Linear algebra*: review of finite-dimensional Hilbert spaces; decompositions of linear operators: spectral, polar, singular-value decomposition (SVD)||NC 2|SC 3
+|||*Linear algebra*: review of finite-dimensional Hilbert spaces; decompositions of linear operators: spectral, polar, singular-value decomposition (SVD)||NC 2|
 |||*Axioms of quantum mechanics*: ensemble decomposition and density operators; tensor product and reduced density matrices (RDMs); Schmidt decomposition; superdense coding and quantum teleportation; CHSH inequality; the Schrödinger-HJW theorem; quantum circuits and tensor graphical calculus||NC 2, Pre 2, Ren 4, Bia I
-|||*Dynamics*: measurement models and quantum operations; qubit quantum operations; completely-positive trace-preserving (CPTP) maps; representations of superoperators||NC 8, Pre 3, Ren 5, Bia VI 
+|||*Dynamics*: measurement models and quantum operations; qubit quantum operations; completely-positive trace-preserving (CPTP) maps; graphical representations of superoperators||NC 8, Pre 3, Ren 5, Bia VI 
 |||*Measurements and distinguishability*: no-cloning theorem; generalized measurements (POVMs); trace distance and fidelity||NC 9|Ren 9,10
+|||*Classical and quantum information theory*: Shannon's source coding theorem, channel coding theorem and its converse; quantum entropies and typical subspaces; (if time permits) entanglement distillation; quantum channel capacity; accessible information and Holevo bound||NC 11,12, Pre 10|   
 
 ## Course description (Revised curriculum 2023)
 
@@ -39,9 +40,9 @@ Density operators; generalized measurements; quantum circuit model; entanglement
 ## Grading Scheme
 
 - 60% Assignments
-- 5% Quizzes
+- 10% Quizzes
 - 15% Oral exam
-- 20% Written report
+- 15% Written report
 
 You should discuss with me about the topic of the report; it should at least relates to a topic covered in this course at an appropriate level. Here are some suggestions to get you started:
 
