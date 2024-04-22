@@ -20,7 +20,7 @@ Addition resources
   - Benjamin Schumacher and Michael Westmoreland, *Quantum Processes, Systems, & Information*, Cambridge University Press, 2010
 - Alternative perspectives
   - John McGreevy, UCSD's Phys220: [Quantum Information is Physical lecture notes](https://mcgreevy.physics.ucsd.edu/f19/index.html) 
-  - Gilad Gour, [Resources of the Quantum World](https://www.arxiv.org/abs/2402.05474) (book draft)
+  - Gilad Gour, [Resources of the Quantum World](https://www.arxiv.org/abs/2402.05474)
 
 ## Schedule
 
