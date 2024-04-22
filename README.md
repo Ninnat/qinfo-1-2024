@@ -15,23 +15,24 @@ Main resources
 
 Addition resources
 
-**Undergrad/advanced undergrad level**
+**Undergrad level**
 - Stephen Barnett, *Quantum Information* (Oxford Master Series in Physics), Oxford University Press, 2009 
 - Benjamin Schumacher and Michael Westmoreland, *Quantum Processes, Systems, & Information*, Cambridge University Press, 2010
+
+**Advanced references**
 - John McGreevy, Phys220: [Quantum Information is Physical lecture notes](https://mcgreevy.physics.ucsd.edu/f19/index.html) (UCSD) 
-- Edward Witten, [A mini-introduction to information theory](https://arxiv.org/abs/1805.11965), *La Rivista del Nuovo Cimento*, 2020
 - Gilad Gour, [Resources of the Quantum World](https://www.arxiv.org/abs/2402.05474) (book draft)
 
 ## Schedule
 
 |Homework|Date| Topics |Lecture note|Resources|Additional resources
 |:------:|:--:|:------:|:----------:|:--------:|:------------------|
-|||*Classical probability and information*: review of probability theory; concentration inequalities: the (weak) law of large number, Chernoff bound; frequentists' and Bayesian views of probabilities; Shannon entropy and typical sequences||Ren 1|[Bayesian Versus Orthodox Statistics: Which Side Are You On?](http://www.lifesci.sussex.ac.uk/home/Zoltan_Dienes/Dienes%202011%20Bayes.pdf), Zoltan Dienes
-|||*Linear algebra*: review of finite-dimensional Hilbert spaces; decompositions of linear operators: spectral, polar, singular-value decomposition (SVD)||NC 2|
-|||*Axioms of quantum mechanics*: ensemble decomposition and density operators; tensor product and reduced density matrices (RDMs); Schmidt decomposition; superdense coding and quantum teleportation; CHSH inequality; the Schrödinger-HJW theorem; quantum circuits and tensor graphical calculus||NC 2, Pre 2, Ren 4, Bia I
-|||*Dynamics*: measurement models and quantum operations; qubit quantum operations; completely-positive trace-preserving (CPTP) maps; graphical representations of superoperators||NC 8, Pre 3, Ren 5, Bia VI 
-|||*Measurements and distinguishability*: no-cloning theorem; generalized measurements (POVMs); trace distance and fidelity||NC 9|Ren 9,10
-|||*Classical and quantum information theory*: Shannon's source coding theorem, channel coding theorem and its converse; quantum entropies and typical subspaces; (if time permits) entanglement distillation; quantum channel capacity; accessible information and Holevo bound||NC 11,12, Pre 10|   
+|||*Classical probability and information*: review of probability theory; concentration inequalities: the (weak) law of large number, Chernoff bound; frequentists' and Bayesian views of probabilities; Shannon entropy and typical sequences||Ren 1|[Bayesian Versus Orthodox Statistics: Which Side Are You On?](http://www.lifesci.sussex.ac.uk/home/Zoltan_Dienes/Dienes%202011%20Bayes.pdf), Zoltan Dienes <br> [A Mathematical Theory of Communication](https://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf), Claude E. Shannon
+|||*Linear algebra*: review of finite-dimensional Hilbert spaces; decompositions of linear operators: spectral, polar, and singular-value decomposition (SVD)||NC 2|
+|||*Axioms of quantum mechanics*: ensemble decomposition and density operators; tensor product and the partial trace; superdense coding and quantum teleportation; CHSH inequality; Schmidt decomposition; purification and the Schrödinger-HJW theorem; quantum circuits and tensor graphical calculus||NC 2, Pre 2, Ren 4, Bia I| [Gleason-Type Derivations of the Quantum Probability Rule for Generalized Measurements](https://arxiv.org/abs/quant-ph/0306179), Caves *et al.*, 2004
+|||*Dynamics and measurements*: generalized measurements (POVMs); measurement models and quantum operations; qubit quantum operations; completely-positive trace-preserving (CPTP) maps; graphical representations of superoperators||NC 8, Pre 3, Ren 5, Bia VI 
+|||*Distinguishability*: no-cloning theorem; trace distance and fidelity||NC 9|Ren 9,10
+|||*Classical and quantum information theory*: Shannon's source coding theorem, channel coding theorem and its converse; quantum entropies and typical subspaces; (if time permits) entanglement distillation; quantum channel capacity; accessible information and Holevo bound||NC 11,12, Pre 10| [A mini-introduction to information theory](https://arxiv.org/abs/1805.11965), Edward Witten
 
 ## Course description (Revised curriculum 2023)
 
