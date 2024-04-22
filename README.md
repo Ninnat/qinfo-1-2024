@@ -18,7 +18,7 @@ Addition resources
 - Lower level
   - Stephen Barnett, *Quantum Information* (Oxford Master Series in Physics), Oxford University Press, 2009 
   - Benjamin Schumacher and Michael Westmoreland, *Quantum Processes, Systems, & Information*, Cambridge University Press, 2010
-- Higher level
+- Alternative perspectives
   - John McGreevy, Phys220: [Quantum Information is Physical lecture notes](https://mcgreevy.physics.ucsd.edu/f19/index.html) (UCSD) 
   - Gilad Gour, [Resources of the Quantum World](https://www.arxiv.org/abs/2402.05474) (book draft)
 
