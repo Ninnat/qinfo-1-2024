@@ -11,14 +11,14 @@ Main resources
 - Joseph M. Renes, *Quantum Information Theory: Concepts and Methods*, De Gruyter Oldenbourg, 2022  [Ren]
 - John Preskill, Caltech's Ph219 [Quantum Information and Computation lecture notes](http://theory.caltech.edu/~preskill/ph229/) [Pre]
 - Michael Nielsen and Isaac Chuang, *Quantum Computation and Quantum Information*, Cambridge University Press, 2000 [NC]
-- Jacob Biamonte,  [Lectures on Quantum Tensor Networks: A pathway to modern diagrammatic reasoning](https://arxiv.org/abs/1912.10049) [Bia] for tensor diagrammatic reasoning, (also see lectures 1-6 of Matthew Leifer's [PSI 2016/2017 course on quantum foundations](https://pirsa.org/C16043))
+- Jacob Biamonte,  [Lectures on Quantum Tensor Networks: A pathway to modern diagrammatic reasoning](https://arxiv.org/abs/1912.10049) [Bia] (See also lectures 1-6 of Matthew Leifer's [PSI 2016/2017 course on quantum foundations](https://pirsa.org/C16043))
 
 Addition resources
 
 - Lower level
   - Stephen Barnett, *Quantum Information* (Oxford Master Series in Physics), Oxford University Press, 2009 
   - Benjamin Schumacher and Michael Westmoreland, *Quantum Processes, Systems, & Information*, Cambridge University Press, 2010
-- Alternative perspectives
+- Alternate perspectives
   - John McGreevy, UCSD's Phys220: [Quantum Information is Physical lecture notes](https://mcgreevy.physics.ucsd.edu/f19/index.html) 
   - Gilad Gour, [Resources of the Quantum World](https://www.arxiv.org/abs/2402.05474)
 
