@@ -1,4 +1,4 @@
-# M897525 Quantum Information
+# 897 525/622 Quantum Information
 
 The administrative information can be found [here]() (TBA)
 
