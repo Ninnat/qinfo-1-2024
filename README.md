@@ -1,4 +1,4 @@
-# 897 525/622 Quantum Information
+# M525/P622 Quantum Information
 
 The administrative information can be found [here]() (TBA)
 
