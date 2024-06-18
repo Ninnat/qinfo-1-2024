@@ -1,6 +1,13 @@
 # M525/P622 Quantum Information
 
-This is a course given at both the MS and the PhD levels at the Institute for Fundamental Study (IF), Naresuan University.
+This course is the first half of a year-long sequence on quantum information and computation given in academic year 2024 at the Institute for Fundamental Study (IF), Naresuan University. Thinking back to it, I should have titled this course "Quantum Information Theory" as our focus will be on the mathematical foundations of classical and quantum information inpdendent of the physical systems that carry these information.
+
+The plan is to discuss the following topics:
+- *Classical probability and information*: review of probability theory and the (weak) law of large number; frequentists' and Bayesian views of probabilities; Shannon entropy and typical sequences
+- *Linear algebra and axioms of quantum mechanics*: review of finite-dimensional Hilbert spaces; decompositions of linear operators: the spectral, polar, and singular-value decomposition (SVD), operator space and the Bloch sphere; projective measurements; unitary dynamics
+- *Quantum states and entanglement*: ensemble decomposition and density operators; tensor product and the partial trace; superdense coding and quantum teleportation; CHSH inequality; Schmidt decomposition; purification and the Schrödinger-HJW theorem; quantum circuits and graphical tensor calculus
+- *Generalized measurements and dynamics*: generalized measurements (POVMs);  no-cloning theorem; the trace distance and fidelity; measurement models and the operator-sum representation of quantum operations; qubit quantum operations; completely-positive trace-preserving (CPTP) maps; graphical representations of superoperators
+- *Classical and quantum information theory*: Shannon's source coding theorem, channel coding theorem and its converse; Holevo bound; quantum entropies and typical subspaces; (if time permits) entanglement distillation; quantum channel capacity
 
 ## Announcements
 
@@ -24,7 +31,7 @@ Addition resources
 
 ## Schedule
 
-| Homework |      Date      |                  Topics                  | Lecture note |         Resources          | Additional resources                                                                                                                                                                                                                                                                                                             |
+| Homework |      Date      |                  Topics                  | Video record |         Resources          | Additional resources                                                                                                                                                                                                                                                                                                             |
 | :------: | :------------: | :--------------------------------------: | :----------: | :------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |          |   Jun 25 (T)   |  robability and statistical inference I  |              |           Ren 1            | [Bayesian Versus Orthodox Statistics: Which Side Are You On?](http://www.lifesci.sussex.ac.uk/home/Zoltan_Dienes/Dienes%202011%20Bayes.pdf), Zoltan Dienes                                                                                                                                                                       |
 |          |   Jun 26 (W)   | Probability and statistical inference II |              |                            |                                                                                                                                                                                                                                                                                                                                  |
@@ -68,19 +75,17 @@ Addition resources
 
 - 40% Assignments
 - 30% Oral exam (September 25?)
-- 30% Term paper
+- 30% Term paper (final weeks)
 
 ### PhD level
 
 - 60% Assignments
-- 20% Term paper
-- 20% Oral presentation
+- 20% Term paper (final weeks)
+- 20% Oral presentation (final weeks)
 
-For the MS level, I want you to make an account on Wikipedia and write (as a private draft) an article on your chosen topic in quantum information theory.
+For the MS level, I want you to make an account on Wikipedia and write (as a private draft) an article on your chosen topic.
 
-For the PhD level, you should pick a research-level topic or paper that you want to learn, write a term paper and gives a 45-to-60-minute talk based on the term paper.
-
-The term paper will be due in the final weeks.
+For the PhD level, you should pick a research-level topic or paper that you want to learn, write a 5-to-10-page term paper and gives a 20-to-30-minute talk based on the term paper.
 
 You should discuss with me about the topic of the report; it should at least relates to a topic covered in this course at an appropriate level. Here are some suggestions to get you started:
 
