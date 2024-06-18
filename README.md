@@ -1,5 +1,9 @@
 # M525/P622 Quantum Information
 
+## Announcements
+
+## Course information
+
 This course is the first half of a year-long sequence on quantum information and computation given in academic year 2024 at the Institute for Fundamental Study (IF), Naresuan University. Thinking back to it, I should have titled this course "Quantum Information Theory" as our focus will be on the mathematical foundations of classical and quantum information inpdendent of the physical systems that carry these information.
 
 The plan is to discuss the following topics:
@@ -8,8 +12,6 @@ The plan is to discuss the following topics:
 - *Quantum states and entanglement*: ensemble decomposition and density operators; tensor product and the partial trace; superdense coding and quantum teleportation; CHSH inequality; Schmidt decomposition; purification and the Schrödinger-HJW theorem; quantum circuits and graphical tensor calculus
 - *Generalized measurements and dynamics*: generalized measurements (POVMs);  no-cloning theorem; the trace distance and fidelity; measurement models and the operator-sum representation of quantum operations; qubit quantum operations; completely-positive trace-preserving (CPTP) maps; graphical representations of superoperators
 - *Classical and quantum information theory*: Shannon's source coding theorem, channel coding theorem and its converse; Holevo bound; quantum entropies and typical subspaces; (if time permits) entanglement distillation; quantum channel capacity
-
-## Announcements
 
 ## Resources
 
