@@ -98,3 +98,9 @@ You should discuss with me about the topic of the report; it should at least rel
 - Quantum state or quantum process learning 
 - Area laws for entanglement entropy and classical simulation of 1D quantum systems
 - No-go theorems in quantum foundations such as the [PBR](https://en.wikipedia.org/wiki/Pusey%E2%80%93Barrett%E2%80%93Rudolph_theorem) theorem, the [Frauchiger-Renner](https://en.wikipedia.org/wiki/Wigner%27s_friend#An_extension_of_the_Wigner's_friend_experiment) theorem, or those related to contextuality   
+
+Scanning the QR code below will bring you to this repository.
+
+<p align="center">
+  <img height="300" src="qr-code.png">
+</p>
