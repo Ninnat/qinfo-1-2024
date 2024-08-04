@@ -2,6 +2,7 @@
 
 ## Announcements
 
+* *4 Aug:* The entangled state in P4 of HW3 should be |000⟩-|111⟩/√2.
 * *4 Jul:* The due date of HW1 has been moved to Tuesday, July 9th (before midnight).
 
 ## Course information
