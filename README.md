@@ -2,6 +2,7 @@
 
 ## Announcements
 
+* *16 Aug:* [Here](https://github.com/Ninnat/qinfo-1-2024/blob/main/rubric.pdf) is the grading scheme and the rubric for the MS report. The description of some items are specific to writing a Wikipedia article, but the overall scheme should be the same for the PhD report as well.
 * *4 Aug:* The entangled state in P4 of HW3 should be |000⟩-|111⟩/√2.
 * *4 Jul:* The due date of HW1 has been moved to Tuesday, July 9th (before midnight).
 
