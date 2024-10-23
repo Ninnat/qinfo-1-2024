@@ -71,16 +71,17 @@ Addition resources
 |          |  W Sep 25   |  Quantum Information II |  [Video](https://www.youtube.com/watch?v=wYMthO1_IF4&list=PLgUEDBpK9d1JlvOfm2XljpfwRX4F5uLEI&index=28)  |                            |                                                                                                                                                                                                                                                                                                                                  |
 | [HW7](https://github.com/Ninnat/qinfo-1-2024/blob/main/assignments/hw7.pdf) OUT </br> DUE Th 11 Oct |  Th Sep 26   |  Quantum Information III (Schumacher compression) |    [Video](https://www.youtube.com/watch?v=WnLwpXdG6lM&list=PLgUEDBpK9d1JlvOfm2XljpfwRX4F5uLEI&index=29)    |                            |                                                                                                                                                                                                                                                                                                                                  |
 |          |   T Oct 1   |  Quantum Information IV |              |                            |                                                                                                                                                                                                                                                                                                                                  |
+|          |  W Oct 2    | **Oral exam** (MS only)
 |          |  Th Oct 3   |  Quantum Information V (Holevo bound) |              |                            |                                                                                                                                                                                                                                                                                                                                  |
-|          |  T Oct 8    |                      |              |                            |                                                                                                                                                                                                                                                                                                                                  |
-|          | Th Oct 10   |                                          |              |                            |                                                                                                                                                                                                                                                                                                                                  |
+|          |  T Oct 8    |  **No class** (EdPEx)  |              |                            |                                                                                                                                                                                                                                                                                                                                  |
+|          | Th Oct 10   | Wrapping up; ask me anything  | No recording             |                            |                                                                                                                                                                                                                                                                                                                                  |
 
 ## Grading Scheme
 
 ### MS level
 
 - 40% Assignments
-- 30% Oral exam (September 25?)
+- 30% Oral exam (Oct 2)
 - 30% Term paper (final weeks)
 
 ### PhD level
